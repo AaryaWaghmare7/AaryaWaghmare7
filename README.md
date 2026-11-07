@@ -134,8 +134,6 @@ A three-student college mini-project exploring blood-donation management and don
 
 ## 📈 GitHub Activity
 
-[![GitHub followers, supplied live by Shields.io](https://img.shields.io/github/followers/AaryaWaghmare7?style=flat-square&label=Followers&labelColor=1D1D1D&color=474549)](https://github.com/AaryaWaghmare7?tab=followers)
-
 [Public repositories](https://github.com/AaryaWaghmare7?tab=repositories) · [Contribution history](https://github.com/AaryaWaghmare7)
 
 ## 🤝 Let's Connect
